@@ -2,6 +2,8 @@
 
 把一个链接真正吃透，再交付拆解、判断、想法、方案和下一步行动的 Agent Skill。
 
+> 用着卡住了，可以找我答疑：99 元一个问题，24 小时内回。微信：JT_M0726
+
 [crewup.cn](http://crewup.cn) · [Quickstart](docs/quickstart.md) · [故障排查](docs/troubleshooting.md) · [Issues](https://github.com/JefferyMaa/kenton-link-lens/issues) · [Discussions](https://github.com/JefferyMaa/kenton-link-lens/discussions) · [交流与反馈](#交流与反馈)
 
 `kenton-link-lens` 适合处理 GitHub 仓库、视频、文章、网页和其他 URL。它约束 Agent 先完整读取证据，再分析内容，最后给出独立判断；它不是书签工具、自动归档器或“把一切都变成内容”的流水线。
